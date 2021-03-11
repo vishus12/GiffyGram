@@ -1,21 +1,68 @@
 {
-	"users": [
-        {
-            "id": 1,
-            "name": "Vishal",
-            "email": "Vishal@vishymail.com"
-        }
-    ],
-	
-    "posts": [
-        {
-            "id": 2,
-            "imageURL": "https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif",
-            "userId": 6,
-            "description": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
-            "timestamp": 1561695022812,
-            "title": "Enhanced global utilisation"
-          }
-    ],
-	"messages":[]
+  "users": [
+    {
+      "id": 1,
+      "name": "Vishal",
+      "email": "Vishal@vishymail.com"
+    }
+  ],
+  "posts": [
+    {
+      "id": 2,
+      "imageURL": "https://media.giphy.com/media/Fp0Yamt003zrcJA2IA/giphy.gif",
+      "userId": 6,
+      "description": "HAPPY SHIVARATI.",
+      "timestamp": 1615482261000,
+      "title": "युस्मद् शब्द"
+    },
+    {
+      "id": 3,
+      "imageURL": "https://media.giphy.com/media/hEc4k5pN17GZq/giphy.gif",
+      "userId": 6,
+      "description": "Confused Travolta.",
+      "timestamp": 1583946261000,
+      "title": "Don't be confused."
+    },
+    {
+      "imageURL": "https://media.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif",
+      "userId": 6,
+      "description": "Be smart with GiffyGram.",
+      "timestamp": 1552323861000,
+      "title": "Use your mind!",
+      "id": 4
+    },
+    {
+      "title": "ITSSS OVER 9000",
+      "imageURL": "https://media.giphy.com/media/7b1hq0WOQZ8dy/giphy.gif",
+      "description": "ITSSS OVER 9000",
+      "userId": 1,
+      "timestamp": 1615483805471,
+      "id": 5
+    },
+    {
+      "title": "SWIMMIN TRUNKS",
+      "imageURL": "https://media.giphy.com/media/x9msDjw3ot7pu/giphy.gif",
+      "description": "GET YOUR SWIM ON",
+      "userId": 1,
+      "timestamp": 1615483807662,
+      "id": 6
+    },
+    {
+      "title": "Shake it BayyyyyBEEEEEEEE",
+      "imageURL": "https://media.giphy.com/media/KWn1Rhs5O82Wcp4tua/giphy.gif",
+      "description": "shake it like a polaroid picture",
+      "userId": 1,
+      "timestamp": 1615484380407,
+      "id": 7
+    },
+    {
+      "title": "Diamond Hands",
+      "imageURL": "https://media.giphy.com/media/6KNUd1mMDs3wrObEig/giphy.gif",
+      "description": "THROW THOSE DIAMOND HANDS UP",
+      "userId": 1,
+      "timestamp": 1615484553759,
+      "id": 8
+    }
+  ],
+  "messages": []
 }
