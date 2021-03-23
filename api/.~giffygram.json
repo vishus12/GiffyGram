@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Vishal",
+      "email": "Vishal@vishymail.com"
+    }
+  ],
+  "posts": [
+    {
+      "title": "ITSSS OVER 9000",
+      "imageURL": "https://media.giphy.com/media/7b1hq0WOQZ8dy/giphy.gif",
+      "description": "ITSSS OVER 9000!",
+      "userId": 1,
+      "timestamp": 1615483805471,
+      "id": 5
+    },
+    {
+      "title": "SWIMMIN TRUNKS",
+      "imageURL": "https://media.giphy.com/media/x9msDjw3ot7pu/giphy.gif",
+      "description": "GET YOUR SWIM ON",
+      "userId": 1,
+      "timestamp": 1615483807662,
+      "id": 6
+    },
+    {
+      "title": "Shake it BayyyyyBEEEEEEEE",
+      "imageURL": "https://media.giphy.com/media/KWn1Rhs5O82Wcp4tua/giphy.gif",
+      "description": "shake it like a polaroid picture",
+      "userId": 1,
+      "timestamp": 1615484380407,
+      "id": 7
+    },
+    {
+      "title": "Diamond Hands",
+      "imageURL": "https://media.giphy.com/media/6KNUd1mMDs3wrObEig/giphy.gif",
+      "description": "THROW THOSE DIAMOND HANDS UP",
+      "userId": 1,
+      "timestamp": 1615484553759,
+      "id": 8
+    },
+    {
+      "title": "sdfkja;lsdfkjaljdfk;lajds",
+      "imageURL": "https://media.giphy.com/media/EqPWQLEBcwj4s/giphy.gif",
+      "description": "",
+      "userId": 1,
+      "timestamp": 1616532918267,
+      "id": 10
+    }
+  ],
+  "messages": []
+}
