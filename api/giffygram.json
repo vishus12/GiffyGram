@@ -4,31 +4,36 @@
       "id": 1,
       "name": "Vishal",
       "email": "Vishal@vishymail.com"
+    },
+    {
+      "name": "ROFLCOPTER",
+      "email": "LAWL@LOL.com",
+      "id": 2
     }
   ],
   "posts": [
     {
-      "id": 2,
+      "title": "युस्मद् शब्द",
       "imageURL": "https://media.giphy.com/media/Fp0Yamt003zrcJA2IA/giphy.gif",
-      "userId": 6,
-      "description": "HAPPY SHIVARATI.",
+      "description": "HAPPY SHIVARATI!!!!!!!",
+      "userId": 1,
       "timestamp": 1615482261000,
-      "title": "युस्मद् शब्द"
+      "id": 2
     },
     {
       "id": 3,
       "imageURL": "https://media.giphy.com/media/hEc4k5pN17GZq/giphy.gif",
-      "userId": 6,
+      "userId": 2,
       "description": "Confused Travolta.",
       "timestamp": 1583946261000,
       "title": "Don't be confused."
     },
     {
-      "imageURL": "https://media.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif",
-      "userId": 6,
-      "description": "Be smart with GiffyGram.",
-      "timestamp": 1552323861000,
       "title": "Use your mind!",
+      "imageURL": "https://media.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif",
+      "userId": 2,
+      "description": "Be smart with GiffyGram!!!!!!!!!!1",
+      "timestamp": 1552323861000,
       "id": 4
     },
     {
@@ -62,6 +67,14 @@
       "userId": 1,
       "timestamp": 1615484553759,
       "id": 8
+    },
+    {
+      "title": "DIAMOND HAND MOCKERY",
+      "imageURL": "https://media.giphy.com/media/6KNUd1mMDs3wrObEig/giphy.gif",
+      "description": "LALALALALALALALALALA",
+      "userId": 1,
+      "timestamp": 1616610634484,
+      "id": 9
     }
   ],
   "messages": []
